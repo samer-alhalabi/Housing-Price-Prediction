@@ -1,6 +1,5 @@
 # Housing Price Prediction
 
-### Steps:
 - Exploratory Data Analysis (EDA), data cleaning, data wrangling
 - Features Selection 
 - Building a pipline (optional)
