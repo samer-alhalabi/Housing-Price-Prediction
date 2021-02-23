@@ -1,2 +1,6 @@
-# Housing-Price-Prediction---Machine-Learning
-This repo will show a complete case of how to predict housing price.
+# Housing Price Prediction
+
+For this project I will include all scripts I did from the beginning of exploratory data analysis (EDA) to model creation and evaluation.
+
+
+
