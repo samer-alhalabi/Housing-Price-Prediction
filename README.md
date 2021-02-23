@@ -10,7 +10,7 @@ For this project I will include all scripts I did from the beginning of explorat
 - Picking up the best performing model
 
 
-End Results (Sales Prediction)
+### End Results (Sales Prediction)
 
 ![images](images/graph.png)
 
