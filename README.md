@@ -1,6 +1,9 @@
 # Housing Price Prediction
 
-![image]()
+![image](images/housesbanner.png)
+
+
+Steps taken:
 
 - Exploratory Data Analysis (EDA), data cleaning, data wrangling
 - Features Selection 
