@@ -1,5 +1,7 @@
 # Housing Price Prediction
 
+![image]()
+
 - Exploratory Data Analysis (EDA), data cleaning, data wrangling
 - Features Selection 
 - Building a pipline (optional)
